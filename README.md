@@ -3,7 +3,7 @@
 A video streaming tool for art and activist: works on Twitch, Youtube, DailyMotion, and any other streameer that accepts rtmp video streams.
 Streams a set of videos from a directory to any streamer 24 hours 7 days a week till either someone kills it, gets flagged or the system gets disabled.
 
-Some ideas on how to use it:
+Some ideas on how to use it:  
 A] Setup am art,  protest or counter programming stream that runs video content 24/7days a week indefinitely.
     The longer a stream runs, the more the algoryhtm will prioritized it.  
 B] Set up multiple instances to stream to a service and take over an entire subject/cateogory:  
