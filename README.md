@@ -14,7 +14,7 @@ C] CultureJamming: Stream content people are searching for and mix it with count
 D] Rat ***ing, stream cloning , and other advanced trouble can also be done or implemented.  
 E] Many more users , but it's up to you how to flex it.  
 
-Current Features
+**Current Features**
 
 Endless Looping: Keep your stream going with infinite video loops. No breaks, no interruptions.
 
@@ -26,22 +26,22 @@ Zero Dependencies: Forget about complex setups and databases. Just a simple, pow
 
 Complete Control: Stream videos from a local directory, with titles read from a text file. Loop through your media and keep the message going.
 
-Use Case:
+**Use Case:**
+
 Activists: Stream protest footage and calls to action with encrypted RTMP support.
 Rebels: Want to control the narrative? RiotFrame gives you the tools to fight back.
 Creators: Whether it's your art, your message, or your voice, RiotFrame gives you the platform to broadcast without censorship.
 
-How It Works
+**How It Works**
 
 Set up your stream URL: Define the destination—whether you're streaming to Dailymotion, YouTube, or any RTMP server.
-E
-nable text overlays: Turn on the text overlay for each video, adding a title or message on the fly.
+Enable text overlays: Turn on the text overlay for each video, adding a title or message on the fly.
 Feed your directory: Place your videos in the specified folder. The tool will loop through them and stream them endlessly.
 Watch the chaos unfold: Press play and broadcast your message to the world.
 Get Started
 Clone the repo, configure your settings at the top of file and get motherfucking busy.
 
-Setup Instructions:
+**Setup Instructions:**  
 Clone the repository:
 
 ```
