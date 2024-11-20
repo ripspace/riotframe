@@ -44,17 +44,18 @@ Clone the repo, configure your settings at the top of file and get motherfucking
 Setup Instructions:
 Clone the repository:
 
-bash
+``` bash
     git clone https://github.com/ripspace/riotframe.git
     cd riotframe
-    Configure the stream settings: Set your RTMP stream URL, toggle text overlays, and point to your video directory and title file in the config section at the top of the script.
+    Configure the stream settings: Set your RTMP stream URL, toggle text overlays, and point to your video directory and title file in the config section at the top of the script.```
 
 Run the script:
 
-bash
+```bash
     python riotframe.py
-    Stop the stream: Hit Ctrl+C to gracefully stop.
+    Stop the stream: Hit Ctrl+C to gracefully stop.```
 
-Run Headleass and in the bakground
-    nohup python riotframe.py &
+
+```Run Headleass and in the bakground
+    nohup python riotframe.py &```
     
