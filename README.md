@@ -11,7 +11,7 @@ B] Set up multiple instances to stream to a service and take over an entire subj
    I.E. Insert name of target subject, hashtag or livesteamer's name 10-20 streams
    the same title/name and take over expose their audience to counter programming.
 C] CultureJamming: Stream content people are searching for and mix it with counter programming.
-D] Rat ***ing, stream cloneing , and other advanced trouble can also be done or implemented.
+D] Rat ***ing, stream cloning , and other advanced trouble can also be done or implemented.
 E] Many more users , but it's up to you how to flex it.
 
 Current Features
